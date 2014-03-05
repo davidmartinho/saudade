@@ -1,0 +1,4 @@
+Jinja2==2.7.2
+MarkupSafe==0.18
+bottle==0.12.4
+wsgiref==0.1.2

@@ -1,0 +1,9 @@
+{
+	"/cenas": {
+		"file": "test",
+		"data": {
+			"name": "John Doe",
+			"age": "22"
+		}
+	}
+}
